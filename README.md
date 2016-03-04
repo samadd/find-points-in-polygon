@@ -1,5 +1,5 @@
 # find-points-in-polygon
-Javascript implementation of simple algorithm to determine which points reside within a given closed polygon. Based on the [PNPOLY algorithm found](https://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html). 
+Javascript implementation of simple algorithm to determine which points reside within a given closed polygon. Based on the [PNPOLY algorithm](https://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html). 
 
 ## How do I use this?
 A PointsInPolygonFinder interface is exposed on the global window object.
