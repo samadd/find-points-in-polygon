@@ -11,6 +11,7 @@ At present this has only one method: find(polygon, points).
 
 ## TODO
 * Support GeoJSON multipolygons.
+* Support GeoJSON point geometries
 * ES6 support
 * Support more modular injection methods - ie something better than just adding it to window.
-* Unit tests
+* More unit tests
