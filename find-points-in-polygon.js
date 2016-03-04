@@ -45,7 +45,7 @@
     
     expose.PointsInPolygonFinder = {
         /**
-         * [[Description]]
+         * Basic method to determine whether a point or set of points reside within a polygon.
          * @param   {Object || Array} polygon : either a GeoJSON Polygon geometry, or a 2d array as per GeoJSON Polygon geometry coordinates ([lng, lat] if lng/lat, or just [x,y])
          * @param   {Array[Array]} points  : either 1d 2 element array of [lng,lat] or [x,y], or 2d array containing list of such
          * @returns {Array} : list of points [x,y] or [lng,lat] depending on what was passed in.
